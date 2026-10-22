@@ -8,7 +8,7 @@ Created on Tue Nov  4 14:48:07 2025
 import numpy as np
 import pybullet as p
 import time
-import affiche
+import tools.affiche as affiche
   
 F_CONTROL = 10000
 sleep_time = 1/F_CONTROL 
