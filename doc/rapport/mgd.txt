@@ -1,0 +1,5 @@
+comment on as verifier le MGD: on as calculer chaque matrice de rotation T(i,i+1) manuellement en fonction du qfig et on la comparé avec le resultat obtenue par la fonction mgd()
+
+
+Note:
+- on doit séparer les sredes du simulateur et du programme (MGD MDD traj ...etc) avec pybullet
